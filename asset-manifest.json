@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Robos/static/js/main.91f9f29b.chunk.js",
+    "main.js.map": "/Robos/static/js/main.91f9f29b.chunk.js.map",
+    "runtime-main.js": "/Robos/static/js/runtime-main.a5e6f977.js",
+    "runtime-main.js.map": "/Robos/static/js/runtime-main.a5e6f977.js.map",
+    "static/css/2.de424728.chunk.css": "/Robos/static/css/2.de424728.chunk.css",
+    "static/js/2.b6642ff5.chunk.js": "/Robos/static/js/2.b6642ff5.chunk.js",
+    "static/js/2.b6642ff5.chunk.js.map": "/Robos/static/js/2.b6642ff5.chunk.js.map",
+    "index.html": "/Robos/index.html",
+    "precache-manifest.68126eaea81632aaf05559f8b670a138.js": "/Robos/precache-manifest.68126eaea81632aaf05559f8b670a138.js",
+    "service-worker.js": "/Robos/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Robos/static/css/2.de424728.chunk.css.map",
+    "static/js/2.b6642ff5.chunk.js.LICENSE.txt": "/Robos/static/js/2.b6642ff5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e6f977.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.b6642ff5.chunk.js",
+    "static/js/main.91f9f29b.chunk.js"
+  ]
+}
